@@ -1,4 +1,4 @@
-
+$(document).ready(function () {
 //change color navbar
 $(window).scroll(function () {
             if ($(this).scrollTop() > 50) {
@@ -13,3 +13,4 @@ $(function() {
        interval: 300
    });
  });
+});
