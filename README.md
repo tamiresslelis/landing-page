@@ -14,9 +14,8 @@ Dado um layout no Zeplin,  a tarefa a ser realizada é passar tal layout para ht
 
 # Mobile
 
-
+Na section="confia" uso do componente Carousel do Bootstrap 4.
 
 ![mobile 1](https://user-images.githubusercontent.com/11637487/38323682-648ba08e-3814-11e8-93e6-078f200d006e.PNG)
 ![mobile 2](https://user-images.githubusercontent.com/11637487/38323683-64ca082e-3814-11e8-8057-cc00462125d8.PNG)
-Na section="confia" uso do componente Carousel do Bootstrap 4.
 ![mobile 3](https://user-images.githubusercontent.com/11637487/38323684-64f34464-3814-11e8-8678-4fecc00c9dcf.PNG)
